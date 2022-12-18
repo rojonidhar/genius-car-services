@@ -1,0 +1,27 @@
+
+.card-body p{
+    text-align:center;
+}
+.card-body h5{
+    text-align:center;
+    font-size:30px;
+}
+.img{
+ width: 50%; 
+ height:50%;
+ margin-left:80px; 
+ 
+ 
+}
+.order-btn2{
+    color: white;
+    width: 100%;
+    border-radius: 8px;
+    padding: 9px 24px;
+   text-align: center;
+    border: none;
+    background-image: linear-gradient(to bottom, #332a2e 0%, #33242a 100%);
+}
+.order-btn2:hover{
+    background-image: linear-gradient(to bottom, #140a0f 0%, #140d10 100%);
+}

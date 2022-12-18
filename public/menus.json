@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Daily Lovers",
+        
+        "img": "https://i.ibb.co/vdr5t4Q/breadicon.png"
+    },
+    {
+        "id": 2,
+        "name": "Desserts",
+      
+        "img": "https://i.ibb.co/wJDKnY8/cupcakeicon.png"
+    },
+    {
+        "id": 3,
+        "name": "Cakes",
+       
+       
+        "img": "https://i.ibb.co/wJDKnY8/cupcakeicon.png"
+    }
+,
+    {
+        "id": 4,
+        "name": "Cakes",
+       
+        "img": "https://i.ibb.co/wJDKnY8/cupcakeicon.png"
+    }
+,
+    {
+        "id": 5,
+        "name": "Cakes",
+       
+        "img": "https://i.ibb.co/wJDKnY8/cupcakeicon.png"
+    }
+,
+    {
+        "id": 6,
+        "name": "Cakes",
+        
+        "img": "https://i.ibb.co/wJDKnY8/cupcakeicon.png"
+    }
+
+
+]
+    
