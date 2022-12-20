@@ -35,8 +35,7 @@ const Footer = () => {
                 </div>
                 <div className='col'>
                     <button className='button'>Order now</button>
-
-                </div>
+                 </div>
             </div>
         </footer>
     );
