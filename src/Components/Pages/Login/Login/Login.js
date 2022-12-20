@@ -77,7 +77,7 @@ const [
          toast('Sent email');
          }
          else{
-            toast('please enter your email address')
+            toast('please enter your email address');
          }
      }
     

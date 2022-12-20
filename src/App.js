@@ -32,7 +32,7 @@ function App() {
         </RequireAuth>
         }></Route>
 
-        <Route path="*"element={<NotFoundPage></NotFoundPage>}></Route>
+        <Route path="*" element={<NotFoundPage></NotFoundPage>}></Route>
     </Routes>
     </div>
   );
