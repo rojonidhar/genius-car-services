@@ -1,10 +1,10 @@
 # MyHome-Food-Catering.
 
 In this project i use:
-#React
-#React Router
-#Firebase
-#Bootsrap and react bootstrap
+. React
+. React Router
+. Firebase
+. Bootsrap and react bootstrap
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
