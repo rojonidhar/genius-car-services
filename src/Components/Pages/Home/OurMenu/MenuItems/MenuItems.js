@@ -5,8 +5,8 @@ const MenuItems = ({menu}) => {
     
     return (
         <div className='service '>
-            <img src={img} alt=""/>
-            <h3>{name}</h3>
+            <img className='h-5px w-10px' src={img} alt=""/>
+            <h5 className=' opacity-75'>{name}</h5>
            
            
         </div>

@@ -1,43 +1,43 @@
 [
     {
         "id": 1,
-        "name": "Daily Lovers",
+        "name": "choco flavour cupcakes",
         
-        "img": "https://i.ibb.co/vdr5t4Q/breadicon.png"
+        "img": "https://i.ibb.co/qWzbmhY/cupcakes.jpg"
     },
     {
         "id": 2,
-        "name": "Desserts",
+        "name": "snakes and milkjuice",
       
-        "img": "https://i.ibb.co/wJDKnY8/cupcakeicon.png"
+        "img": "https://i.ibb.co/Qr70kr2/daryl-han-wz-BXAMG4j34-unsplash.jpg"
     },
     {
         "id": 3,
-        "name": "Cakes",
+        "name": " Cakes",
        
        
-        "img": "https://i.ibb.co/wJDKnY8/cupcakeicon.png"
+        "img": "https://i.ibb.co/GP39hDB/delicious-sweet-cake-with-strawberries-baiser-plate.jpg"
     }
 ,
     {
         "id": 4,
-        "name": "Cakes",
+        "name": "choco with dunuts",
        
-        "img": "https://i.ibb.co/wJDKnY8/cupcakeicon.png"
+        "img": "https://i.ibb.co/hMNQz6K/fresh-tasty-donuts-with-chocolate-glaze.jpg"
     }
 ,
     {
         "id": 5,
-        "name": "Cakes",
+        "name": "Pudding",
        
-        "img": "https://i.ibb.co/wJDKnY8/cupcakeicon.png"
+        "img": "https://i.ibb.co/RB0RNrt/jasmine-huang-KJ3mq-De-F9b4-unsplash.jpg"
     }
 ,
     {
         "id": 6,
-        "name": "Cakes",
+        "name": "sweets",
         
-        "img": "https://i.ibb.co/wJDKnY8/cupcakeicon.png"
+        "img": "https://i.ibb.co/LJmDL4R/valentina-locatelli-tyk-UDbe-X0-Gs-unsplash.jpg"
     }
 
 

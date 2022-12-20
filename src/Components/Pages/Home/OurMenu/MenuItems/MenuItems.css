@@ -5,3 +5,8 @@
     padding-bottom: 10px;
     text-align: center;
 }
+.service img{
+    height:100px;
+    width: 100px;
+    margin-top: 5px;
+}
